@@ -1,8 +1,8 @@
 /* General body settings */
 body { 
-  color: #5f6f7e; 
+  color: #000000; 
   direction: ltr;
-  font: 300 14px/1.4 "Open Sans", Arial, sans-serif;
+  font: 300 14px/1.4 "Arial", Arial, sans-serif;
   background: #fff;
 }
 
@@ -448,7 +448,7 @@ a:hover {
 }
 .header-navigation a {
   display: block;
-  color: #78828c;
+  color: #000000;
 }
 .header-navigation a:hover,
 .header-navigation li.current a {
@@ -706,7 +706,7 @@ a:hover {
 }
 .team-block em {
   color: #e54a1a;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   display: block;
   font: 400 14px "Open Sans", Arial, sans-serif;
   margin-bottom: 12px;
